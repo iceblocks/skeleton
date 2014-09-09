@@ -1,0 +1,36 @@
+{
+	"name": "iceblock-base",
+	"version": "0.0.1",
+	"main": [
+		"src/scss/module.scss",
+		"src/js/module.js",
+		"src/html/module.html"
+	],
+	"authors": [
+		"Dan Hensby (@dhensby)",
+		"Doug Proctor (@doug-proctor)"
+	],
+	"description": "",
+	"keywords": [
+		"components",
+		"sass",
+		"css",
+		"prototype",
+		"html",
+		"wireframe"
+	],
+	"license": "BSD",
+	"ignore": [
+	],
+	"dependencies": {
+		"csswizardry-grids": "2.2",
+		"inuit-starter-kit": "0.2",
+		"requirejs": "2.1"
+	},
+	"devDependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iceblocks/skeleton.git"
+	}
+}
